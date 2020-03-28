@@ -131,7 +131,7 @@
   color: #FF6600; }
 
 .mo {
-  color: #FF6600; }
+  color: #FF6600; }A
 
 .sb {
   color: #CC3300; }
@@ -281,9 +281,9 @@ body {
         display: block; }
       #markdown-toc .active {
         padding-left: 18px;
-        color: #3097D1;
+        color: rgb(47, 65, 75);
         background-color: transparent;
-        border-left: 2px solid #3097D1; }
+        border-left: 2px solid rgb(77, 101, 116); }
       #markdown-toc.affix {
         top: 0; } }
 

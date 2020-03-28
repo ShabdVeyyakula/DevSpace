@@ -2831,7 +2831,7 @@ tbody.collapse.show {
 .nav-pills .nav-item.show .nav-link {
   color: #fff;
   cursor: default;
-  background-color: #0275d8; }
+  background-color: #3b4650; }
 
 .nav-fill .nav-item {
   -webkit-box-flex: 1;
@@ -8212,9 +8212,9 @@ textarea {
   box-shadow: none; }
 
 .navbar-dark .navbar-form-control {
-  background-color: #4da6d7; }
+  background-color: #34505f; }
   .navbar-dark .navbar-form-control:focus {
-    color: #3097D1;
+    color: rgb(50, 75, 90);
     background-color: #fff;
     box-shadow: 0 0 6px rgba(255, 255, 255, 0.5); }
 
@@ -8255,12 +8255,12 @@ textarea {
     color: inherit;
     border-bottom: 4px solid transparent; }
     .nav-bordered > .nav-item > .nav-link:hover, .nav-bordered > .nav-item > .nav-link:focus {
-      color: #3097D1;
+      color: rgb(67, 90, 104);
       background-color: transparent; }
     .nav-bordered > .nav-item > .nav-link.active, .nav-bordered > .nav-item > .nav-link.active:hover, .nav-bordered > .nav-item > .nav-link.active:focus {
       font-weight: 500;
-      color: #3097D1;
-      border-bottom-color: #3097D1; }
+      color: rgb(37, 58, 70);
+      border-bottom-color: rgb(41, 59, 70); }
   .nav-bordered > .nav-item + .nav-item {
     margin-left: 30px; }
 
@@ -8285,7 +8285,7 @@ textarea {
     border-left: 4px solid;
     text-decoration: none; }
   .nav-bordered.nav-stacked > .nav-item > .nav-link.active, .nav-bordered.nav-stacked > .nav-item > .nav-link.active:hover, .nav-bordered.nav-stacked > .nav-item > .nav-link.active:focus {
-    border-left-color: #3097D1; }
+    border-left-color: rgb(54, 82, 99); }
 
 .nav-bordered.nav-stacked .nav-header {
   padding-left: 34px; }
