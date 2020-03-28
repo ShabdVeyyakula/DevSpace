@@ -41,7 +41,7 @@ strong {
   height: 100vh;
 }
 .app-navbar .form-control {
-  border-color: #1C73A5;
+  border-color: rgb(48, 109, 145);
 }
 .app-navbar .app-notifications {
   margin-left: 1rem;

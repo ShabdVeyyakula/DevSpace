@@ -8196,7 +8196,7 @@ textarea {
 
 .navbar-dark .navbar-brand-emphasized, .navbar-dark .navbar-brand-emphasized:hover, .navbar-dark .navbar-brand-emphasized:focus {
   color: #fff;
-  background-color: #1C73A5; }
+  background-color: rgb(75, 97, 110), 151, 167); }
 
 .navbar-padded .navbar-header {
   padding-left: 5px;
